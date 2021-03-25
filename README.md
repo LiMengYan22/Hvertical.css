@@ -1,5 +1,5 @@
 # Hvertical.css
-Linea Vertical como &lt;hr> para html, con CSS
+**Linea Vertical** como <hr> para html, *con CSS*..
 
 <hr>
 
